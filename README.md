@@ -123,8 +123,7 @@ Dieses Projekt steht unter der MIT-Lizenz — siehe [LICENSE](LICENSE).
 
 ## Credits
 
-**Autorin:** Schulamt der Stadt Zürich — Marketing & Kommunikation
-**Kontext:** KI-Fachgruppe der Stadtverwaltung Zürich
+**Autor:** Hayal Oezkan
 **Theoretische Basis:** Kritische Theorie (Frankfurter Schule), Critical Data Studies, AI Ethics
 
 ---
