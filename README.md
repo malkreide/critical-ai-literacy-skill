@@ -135,7 +135,3 @@ Dieses Projekt steht unter der MIT-Lizenz — siehe [LICENSE](LICENSE).
 [LinkedIn](https://www.linkedin.com/in/hayaloezkan/) • [Contributing](CONTRIBUTING.md)
 
 </div>
-
----
-
-**Made with ❤️ in Zürich**
