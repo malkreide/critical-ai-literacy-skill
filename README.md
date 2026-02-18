@@ -126,8 +126,6 @@ Dieses Projekt steht unter der MIT-Lizenz — siehe [LICENSE](LICENSE).
 **Autor:** Hayal Oezkan
 **Theoretische Basis:** Kritische Theorie (Frankfurter Schule), Critical Data Studies, AI Ethics
 
---
-
 <div align="center">
 
 **Made with ❤️ in Zürich**
