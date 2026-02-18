@@ -1,6 +1,6 @@
 # Critical AI Literacy Skill für Claude
 
-[🇬🇧 English Version](README.md) | **🇩🇪 Deutsch**
+[🇬🇧 English Version](README_EN.md) | **🇩🇪 Deutsch**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude AI](https://img.shields.io/badge/Claude-AI%20Skill-blueviolet)](https://claude.ai)
